@@ -7,7 +7,7 @@ import static com.jayway.restassured.RestAssured.given;
 /**
  * Created by YuriyMakitra on 21.10.2016.
  */
-public class userApiTest {
+public class userApiTest {  
     String userToken;
 
 //    public String userLogin() {
